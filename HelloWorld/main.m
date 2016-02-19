@@ -1,4 +1,4 @@
-//
+﻿//
 //  main.m
 //  HelloWorld
 //
@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 #import "AppDelegate.h"
+
+//input testcode
 
 int main(int argc, char * argv[])
 {
